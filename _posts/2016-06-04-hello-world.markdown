@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "James Lee, a person with a website (at last)"
+title:  "a person with a website (at last)"
 date:   2016-06-04
 categories: personal
 ---
@@ -9,7 +9,7 @@ I am finally with website, and I hope to give good website to you all.
 
 Big shout out to [Jekyll](http://jekyllrb.com){:target="_blank"} and [Github Pages](https://pages.github.com/){:target="_blank"} for making it all possible.
 
-You can look for me on [my github](https://github.com/kcbighuge){:target="_blank"}, where you'll find memorable code snippets such as:
+You can look for me on [github](https://github.com/kcbighuge){:target="_blank"}, where you'll find memorable code snippets such as:
 
 {% highlight python %}
 from sklearn import svm
