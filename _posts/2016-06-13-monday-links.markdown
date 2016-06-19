@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monday links"
+title:  "Monday links 06/13/16"
 date:   2016-06-13
 categories: links
 ---
@@ -16,6 +16,6 @@ categories: links
 
 5. A nice [conversation with Charlie Kaufman](http://www.wtfpod.com/podcast/episodes/episode_671_-_charlie_kaufman_duke_johnson){:target="_blank"} (great stuff on Adaptation and Anomalisa).
 
-6. A very clever [Illustrated Guide to Math](http://www.newyorker.com/humor/daily-shouts/math-an-illustrated-guide){:target="_blank"}, by Megan Amram and Liana Finck.
+6. A very clever [Illustrated Guide to Math](http://www.newyorker.com/humor/daily-shouts/math-an-illustrated-guide){:target="_blank"}, by Megan Amram and Liana Finck.  
 
 ![](https://pbs.twimg.com/media/CkcKQdXWYAE92uH.jpg){:target="_blank"}

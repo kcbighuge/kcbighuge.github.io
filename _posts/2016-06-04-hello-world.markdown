@@ -25,5 +25,6 @@ J = nnCostFunction(nn_params, input_layer_size, hidden_layer_size, ...
                    num_labels, X, y, lambda);
 {% endhighlight %}
 
-Feel free to reach out and say hello. My (limited) powers are [at your command](http://pbfcomics.com/commisioned/Herald_of_Galactus/){:target="_blank"}.
+Feel free to reach out and say hello. My (limited) powers are [at your command](http://pbfcomics.com/commisioned/Herald_of_Galactus/){:target="_blank"}...  
+
 ![Herald of Galactus](http://pbfcomics.com/images/CW-PBF-Herald_of_Galactus.png)
