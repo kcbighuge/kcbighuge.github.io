@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "***day links mm/dd/16"
+date:   2016-mm-dd
+categories: links
+---
+
+1. It looks like [x](http){:target="_blank"}.
+
+2. Concise read on the opportunities and challenges in machine learning in this guide on the [x](http){:target="_blank"}?  
+(appendices have ...)
+
+3. A self proclaimed thought leader gives a talk [x](https){:target="_blank"}.  
+
+4. Interesting [x](http){:target="_blank"} with [x](http){:target="_blank"}.
+
+5. Photographer [x](http){:target="_blank"} puts the [x](http){:target="_blank"}.  
+<br/>
+![](http){:target="_blank"}
