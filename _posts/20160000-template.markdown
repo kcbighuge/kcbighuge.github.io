@@ -6,14 +6,19 @@ categories: links
 ---
 
 1. It looks like [x](http){:target="_blank"}.
+<small>_fun_nugget_: there are craps games in the U.S. where they use cards instead of dice (!)</small>
 
-2. Concise read on the opportunities and challenges in machine learning in this guide on the [x](http){:target="_blank"}?  
-(appendices have ...)
+2. Concise read on on [x](http){:target="_blank"}?  
+<small>_stupid_forrest_gump_reference_: "My name's Forrest. ..."</small>
 
-3. A self proclaimed thought leader gives a talk [x](https){:target="_blank"}.  
+3. A self proclaimed [x](https){:target="_blank"}.  
+<small>_key_learning_: google ...</small>
 
 4. Interesting [x](http){:target="_blank"} with [x](http){:target="_blank"}.
+<small>_collosal_understatement_: follow [@Colossal](https://twitter.com/Colossal){:target='_blank'}</small>  
+
+	> ![](http://www..gif){:width="75%"}
 
 5. Photographer [x](http){:target="_blank"} puts the [x](http){:target="_blank"}.  
-<br/>
-![](http){:target="_blank"}
+
+	> ![](https:jpg){:target="_blank"}
