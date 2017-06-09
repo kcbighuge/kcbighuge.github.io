@@ -8,4 +8,5 @@ I'm James Lee. I am, however, not [this James Lee](https://www.amazon.com/gp/pro
 
 Still, despite that glaring shortcoming, feel free to reach out and say hello. My (limited) powers are [at your command](http://pbfcomics.com/commisioned/Herald_of_Galactus/){:target="_blank"}...  
 
-![Herald of Galactus](http://pbfcomics.com/images/CW-PBF-Herald_of_Galactus.png)
+
+![Herald of Galactus](http://pbfcomics.com/wp-content/uploads/2017/05/GCPBF-New_Herald_of_Galactus-for-Marvel.png)
