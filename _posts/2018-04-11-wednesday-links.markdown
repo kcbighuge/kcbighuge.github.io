@@ -55,9 +55,9 @@ I actually heard some discussion on this topic on the [Bill Simmons podcast](htt
 (via [@jdh](https://twitter.com/jdh){:target="_blank"})
 
 
-Lastly, no post of links would be complete without something interesting from [Colossal](https://www.thisiscolossal.com/){:target="_blank"}, like these [handmade sketchbooks](http://www.thisiscolossal.com/2018/04/handmade-sketchbooks-by-jose-naranja/){:target="_blank"} by [José Naranja](https://josenaranja.blogspot.com/){:target="_blank"}.  
+Lastly, no post of links would be complete without something interesting from [Colossal](https://www.thisiscolossal.com/){:target="_blank"}, like these [handmade sketchbooks](https://www.thisiscolossal.com/2018/04/handmade-sketchbooks-by-jose-naranja/){:target="_blank"} by [José Naranja](https://josenaranja.blogspot.com/){:target="_blank"}.  
 
-![](http://www.thisiscolossal.com/wp-content/uploads/2018/04/JoseNaranja_09.jpg){:width="75%"}
+![](https://www.thisiscolossal.com/wp-content/uploads/2018/04/JoseNaranja_09.jpg){:width="75%"}
 
 (_colossal_understatement_: follow [@Colossal](https://twitter.com/Colossal){:target='_blank'})
 
