@@ -9,7 +9,7 @@
 title: James Lee
 email: james@kcbighuge.com
 description: > # this means to ignore newlines until "baseurl:"
-  Less than all things about data, finance, tech, science, and sports
+  Less than all things about tech, finance, science, and sports
   (K.C. teams, mostly).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site

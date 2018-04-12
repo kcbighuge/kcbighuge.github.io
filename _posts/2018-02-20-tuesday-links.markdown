@@ -20,6 +20,8 @@ unique_ai_links = np.unique(all_ai_links)
 
 Although this could be a fun project to implement one day, for now I just put together the below list of newsletters that would be nice to include. It falls woefully short in covering everything that you could subscribe to, but that's why this post is titled "A to I" instead of "A to Z".  <small>(cue applause)</small>
 
+
+## The links...
 1. [The Wild Week in AI](https://www.getrevue.co/profile/wildml){:target="_blank"}, by [@dennybritz](https://twitter.com/dennybritz){:target="_blank"}.  
 <small>(_key_awaytaking_: if you only sign up for one newsletter, this is the one)</small>
 
@@ -36,9 +38,9 @@ Although this could be a fun project to implement one day, for now I just put to
 
 7. And while it's not technically a newsletter, if you want a true firehose of AI/ML content, you can always check out my ["data" list on twitter](https://twitter.com/kcbighuge/lists/data){:target="_blank"}.
 
-And in closing, no post of links would be complete without something interesting from [Colosal](https://www.thisiscolossal.com/){:target="_blank"}, like these [photos of street puddles](https://www.thisiscolossal.com/2018/01/local-preacher-neon-puddles/){:target="_blank"} by [Slava Semeniuta](https://www.behance.net/thisset){:target="_blank"}.  
+And in closing, no post of links would be complete without something interesting from [Colossal](https://www.thisiscolossal.com/){:target="_blank"}, like these [photos of street puddles](https://www.thisiscolossal.com/2018/01/local-preacher-neon-puddles/){:target="_blank"} by [Slava Semeniuta](https://www.behance.net/thisset){:target="_blank"}.  
 
 ![](https://www.thisiscolossal.com/wp-content/uploads/2018/01/wet-neon-3.jpg){:width="75%"}
 
-<small>(_collosal_understatement_: follow [@Colossal](https://twitter.com/Colossal){:target='_blank'})</small>  
+<small>(_colossal_understatement_: follow [@Colossal](https://twitter.com/Colossal){:target='_blank'})</small>  
 
