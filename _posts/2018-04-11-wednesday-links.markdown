@@ -55,7 +55,6 @@ I actually heard some discussion on this topic on the [Bill Simmons podcast](htt
 > [“We should remain concerned about automated driving but terrified about conventional driving.”](https://cyberlaw.stanford.edu/blog/2018/03/ubers-fatal-crash){:target="_blank"}  
 (via [@jdh](https://twitter.com/jdh){:target="_blank"})
 
-
 Lastly, no post of links would be complete without something interesting from [Colossal](https://www.thisiscolossal.com/){:target="_blank"}, like these [handmade sketchbooks](https://www.thisiscolossal.com/2018/04/handmade-sketchbooks-by-jose-naranja/){:target="_blank"} by [José Naranja](https://josenaranja.blogspot.com/){:target="_blank"}.  
 
 ![](https://www.thisiscolossal.com/wp-content/uploads/2018/04/JoseNaranja_09.jpg){:width="75%"}
