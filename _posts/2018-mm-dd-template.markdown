@@ -6,22 +6,30 @@ categories: links
 comments: true
 ---
 
-## The links...
+The below tweet from [](https){:target="_blank"} captures a lot of my recent feelings toward AI & Deep Learning...  
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It is beyond any doubt that over the next few years we will perfect the technology for automatically generating a video of anyone saying anything we type, with the right voice too. What implications do you think this will have? What are the applications? How do we mitigate risks?</p>&mdash; Nando de Freitas (@NandoDF) <a href="https://twitter.com/NandoDF/status/969574632692047872?ref_src=twsrc%5Etfw">March 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The powers of ML and deep learning are simply awesome to behold: 
+
+
+## and on to the links...
 
 #### 1. It looks like [x](http){:target="_blank"}.  
-<small>_machine_bites_man_: there are craps games in the U.S. where they use cards instead of dice (!)</small>
+<small>(_machine_bites_man_: there are craps games in the U.S. where they use cards instead of dice)</small>
 
 
 #### 2. Concise read on on [x](http){:target="_blank"}?  
-<small>_welcome_our_robot_overlords_: "My name's Forrest. ..."</small>
+<small>(_welcome_our_robot_overlords_: "My name's Forrest. ...")</small>
 
 
 #### 3. A self proclaimed [x](https){:target="_blank"}.  
-<small>_key_awaytaking_: google ...</small>
+<small>(_key_awaytaking_: google ...)</small>
 
 
 #### 4. Interesting [x](http){:target="_blank"} with [x](http){:target="_blank"}.  
-<small>_colossal_understatement_: follow [@Colossal](https://twitter.com/Colossal){:target='_blank'}</small>  
+<small>(_colossal_understatement_: follow [@Colossal](https://twitter.com/Colossal){:target='_blank'})</small>  
 
 	> ![](http://www..gif){:width="75%"}
 
@@ -29,6 +37,7 @@ comments: true
 #### 5. Photographer [x](http){:target="_blank"} puts the [x](http){:target="_blank"}.  
 
 	> ![](https:jpg){:width="75%"}
+
 
 ---
 
