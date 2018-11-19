@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Giving Thanks — Sunday links"
-date:   2018-11-18
+title:  "Giving Thanks — Monday links"
+date:   2018-11-19
 categories: links
 ---
 
