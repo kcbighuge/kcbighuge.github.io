@@ -5,61 +5,45 @@ date:   2018-11-19
 categories: links
 ---
 
-The below tweet from [@estherschindler](https://twitter.com/estherschindler){:target="_blank"} links to some recent predictions by sci-fi author [@David_Gerrold](https://twitter.com/David_Gerrold){:target="_blank"}, where he outlines his vision for the future of computing. 
+As the year 2018 draws to a close, I wanted to give thanks to some of the people on Twitter who enlightened and inspired me during the year. In no particular order...
+
+- __[@jeremyphoward](https://twitter.com/jeremyphoward){:target="_blank"}__ - an absolute must-follow for anyone interested in deep learning and machine learning 
+
+- __[@UrbanFoxxxx](https://twitter.com/UrbanFoxxxx){:target="_blank"}__ - always posts the coolest photos and artwork of urban environments
+
+- __[@rasbt](https://twitter.com/rasbt){:target="_blank"}__ - another must-follow for anyone learning machine learning
+
+- __[@audreywatters](https://twitter.com/audreywatters){:target="_blank"}__ - a self-proclaimed "ed-tech Cassandra," she provides a needed contrarian view of tech's impact on education
+
+- __[@benthompson](https://twitter.com/benthompson){:target="_blank"}__ - absolutely the best perspective on the business of tech
+
+- __[@PatrickMahomes5](https://twitter.com/PatrickMahomes5){:target="_blank"}__ - a young man of 23 years who gives hope to this life-long kansas city chiefs fan (yes, i'm a big huge kc fan! 😎)
 
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Since y&#39;all asked for an update....<br><br>SF author <a href="https://twitter.com/DavidGerrold?ref_src=twsrc%5Etfw">@DavidGerrold</a> nailed smartphones in 1999. Here’s his next prediction: “My friend, the robot” <a href="https://t.co/I2sfXIizuA">https://t.co/I2sfXIizuA</a></p>&mdash; Esther Schindler (@estherschindler) <a href="https://twitter.com/estherschindler/status/981248575970557952?ref_src=twsrc%5Etfw">April 3, 2018</a></blockquote>
+### And now on to the links... 
+
+
+1) Blog post from Uber on how they're [scaling machine learning](https://eng.uber.com/scaling-michelangelo/){:target="_blank"}.  
+<small>(now that most big enterprises are aware of ML and using it in some form, these issues should get increasingly more attention</small>
+
+
+2) The above-mentioned Sebastian Raschka explains the use of statistical tests in [model evaluation and model selection](https://sebastianraschka.com/blog/2018/model-evaluation-selection-part4.html){:target="_blank"}.  
+
+
+3) Even if we don't get everyone to use self-driving cars all at once, the actions of the few could override the actions of the many.  
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yes, congestion causes traffic jams. But so do a very surprisingly small number of drivers.<br><br>See what happens when a few self-driving cars powered by <a href="https://twitter.com/hashtag/ReinforcementLearning?src=hash&amp;ref_src=twsrc%5Etfw">#ReinforcementLearning</a> hit simulated roads and STOP 👏🏼👏🏼 TAPPING 👏🏼👏🏼 THEIR 👏🏼👏🏼 BRAKES <a href="https://t.co/obnaawNhmF">https://t.co/obnaawNhmF</a></p>&mdash; Frank Chen (@withfries2) <a href="https://twitter.com/withfries2/status/1063795367559409664?ref_src=twsrc%5Etfw">November 17, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-Gerrold knows his stuff — he made a prescient forecast of smartphones [back in 1999](https://twitter.com/estherschindler/status/979005249452232704){:target="_blank"}. He called the devices "PITA" (Personal Information Telecommunciations Agent)...  
-
->_"The acronym also can stand for Pain In The Ass, which it is equally  likely to be, because having all that connectivity is going to destroy what's left of everyone's privacy."_
-
-Sounds pretty spot on, no?
-
-In his [new essay](https://www.hpe.com/us/en/insights/articles/the-future-of-robots-from-science-fiction-to-present-day-predictions-1804.html){:target="_blank"}, Gerrold describes how the next wave of computing will be driven by robots. He suggests that robots will handle many of our day-to-day tasks, surpassing what even human assistants can do to become a kind of "life manager". (hmm, this sounds like the world of the [movie "Her"](https://www.imdb.com/title/tt1798709/){:target="_blank"}) 
-
-From the essay...  
-
->_"The more sophisticated a robot’s information processing ability, the more it will develop a personality tuned to the user. It will become a companion. It will become an electronic friend."_  
-
-(yup, definitely sounds like "Her") 
-
->_"And then there’s this: Robots as romantic partners."_
-
-(ok, now we're definitely talking "Her"!)
-
-Gerrold speculates that the development of these "true robots" will take at least another decade, but this will probably be a good thing, giving us humans more time to figure out how they should fit into our society.  
-
-But as long as these robots help to enhance our humanity rather than provide a substitute, I think we'll be fine. For example, thinking of computers as [bicycles for the mind](https://www.brainpickings.org/2011/12/21/steve-jobs-bicycle-for-the-mind-1990/){:target='_blank'} should serve us well.  
+<small>(_welcome_our_robot_overlords_: and free us from the jamming of traffic)</small>
 
 
-## And now on to the links... 
+4) [@morganhousel](https://twitter.com/morganhousel){:target='_blank'} writes 5000 words on the story of [the U.S economy since the end of World War II](https://www.collaborativefund.com/blog/how-this-all-happened/){:target="_blank"}.  
+<small>(_key_awaytaking_: things go bad when expectations exceed reality)</small>
 
-[product market fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+5) Cool collection of [Japanese firework illustrations](https://www.thisiscolossal.com/2018/11/japanese-firework-illustrations/){:target="_blank"} made available by the city of Yokohama.  
 
-#### 1. From NVIDIA, here's DeepRecommender: [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender/blob/master/README.md){:target="_blank"}.  
-<small>(hat tip to the incomparable [@jeremyphoward](https://twitter.com/jeremyphoward){:target='_blank'})</small>
-
-
-#### 2. Interesting thought about smarter people having more neurons than average, but also fewer neural connections — is this brain "regularization"?
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Is this a form of regularization (in the machine learning sense) in the brain? -&gt;  <a href="https://t.co/lJ5TKxJnYm">https://t.co/lJ5TKxJnYm</a></p>&mdash; John Alberg (@JohnAlberg) <a href="https://twitter.com/JohnAlberg/status/998969485334740992?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
-<small>(_key_awaytaking_: over-fitting is for under-achievers)</small>
-
-
-#### 3. Here's a nice overview of using [deep learning for object detection](https://zoey4ai.com/2018/05/12/deep-learning-object-detection/){:target="_blank"} by [@ZoeyC17](https://twitter.com/ZoeyC17){:target="_blank"}.  
-<small>(you can also see an example of using [MobileNets](https://arxiv.org/abs/1704.04861){:target='_blank'} for object detection in [this notebook](https://github.com/kcbighuge/SDCND-Object-Detection-Lab/blob/master/CarND-Object-Detection-Lab.ipynb){:target='_blank'})</small>
-
-
-#### 4. [@BenedictEvans](https://twitter.com/BenedictEvans){:target='_blank'} speculates on whether we'll ever have an [L5 autonomous car](https://www.ben-evans.com/benedictevans/2018/3/26/steps-to-autonomy){:target="_blank"}.  
-<small>(_farewell_our_robot_overlords_: maybe the news won't become all "machine bites man" headlines after all?)</small>
-
-
-#### 5. Cool look at a [deserted Great Wall of China](https://www.thisiscolossal.com/2018/04/deserted-great-wall-of-china/){:target="_blank"} by photographer [Andrés Gallardo Albajar](https://www.behance.net/andresgallardo){:target="_blank"}.  
-
-![](https://www.thisiscolossal.com/wp-content/uploads/2018/04/AndresGallardoAlbajar_02.jpg){:width="75%"}
+![](https://www.thisiscolossal.com/wp-content/uploads/2018/11/Firework-15.jpg){:width="75%"}
 
 <small>(_colossal_understatement_: follow [@Colossal](https://twitter.com/Colossal){:target='_blank'})</small>  
 
