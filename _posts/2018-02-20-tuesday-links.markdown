@@ -5,7 +5,7 @@ date:   2018-02-20
 categories: links
 ---
 
-As a rabid consumer of all things AI/ML/Deep Learning, I completely agree with the below tweet regarding all the AI email newsletters that are out there. 
+As a rabid consumer of all things [AI/ML/Deep Learning](https://www.scaler.com/topics/what-is-deep-learning/), I completely agree with the below tweet regarding all the AI email newsletters that are out there. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Someone needs to put all the AI newsletters onto a blockchain.</p>&mdash; Benedict Evans (@BenedictEvans) <a href="https://twitter.com/BenedictEvans/status/963134473167560704?ref_src=twsrc%5Etfw">February 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
